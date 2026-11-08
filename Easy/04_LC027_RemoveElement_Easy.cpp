@@ -1,4 +1,4 @@
-   // LeetCode 27 - Remove Element
+  // LeetCode 27 - Remove Element
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
