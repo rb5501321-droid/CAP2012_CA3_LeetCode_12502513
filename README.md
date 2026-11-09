@@ -5,7 +5,7 @@
 ![Problems](https://img.shields.io/badge/Problems%20Solved-16%2F16-brightgreen?style=for-the-badge)
 
 ## 📌 Student Details
-- **Student Name:** Mr. Sidharth
+- **Student Name:** Sidharth Behra
 - **Registration Number:** 12502513
 - **Course Code:** CAP2012
 - **Course Title:** Data Structures
